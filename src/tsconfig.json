@@ -1,8 +1,5 @@
 {
   "compilerOptions": {
-    "lib": [
-      "ES2021.String"
-    ],
     "declaration": true,
     "esModuleInterop": true,
     "inlineSourceMap": true,

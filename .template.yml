@@ -6,8 +6,6 @@ collections:
 
 excludes:
   - .cspell.json
-  - package.json
-  - package.json.j2
 
 render_context:
   name: quick-grunt
