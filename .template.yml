@@ -1,0 +1,19 @@
+output: .
+
+collections:
+  - common
+  - typescript
+
+excludes:
+  - .cspell.json
+  - Gruntfile.js
+  - package.json
+  - package.json.j2
+
+render_context:
+  name: 'quick-grunt'
+  description: 'Declarative grunt abstractions.'
+  author: joellefkowitz
+  codacy_id: 0bf54bb20a744bec9c3d36ac206a0f3d
+  keywords:
+    - grunt
